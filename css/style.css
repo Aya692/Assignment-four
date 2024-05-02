@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color: red;
+}
+h3{
+    text-align: center;
+}
+
+input {
+    display: block;
+    width: 50%;
+    margin: auto;
+    padding: 15px;
+    margin-top: 20px;
+}
+.button {
+ margin-left: 40%;
+ margin-top: 20px;
+}
+.button button {
+    padding: 10px 30px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+table{
+    width: 600px;
+    
+   
+}
+table  th {
+    background-color: brown;
+    color: white;
+}
+table td, table th {
+    padding: 20px;
+}
+caption{
+    margin-bottom: 10px;
+   
+}
